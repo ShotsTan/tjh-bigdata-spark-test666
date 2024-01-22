@@ -18,6 +18,7 @@ public class Aaa {
         Dog dog = new Dog("dwx",28,"ChengDu","M");
 
         System.out.println(dog.getName()+"住在"+dog.getHome()+",今年已经"+dog.getAge()+"岁了");
+        System.out.println(dog.getSex());
     }
 
 
